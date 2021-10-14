@@ -1,0 +1,10 @@
+Dans ce jeu, une grille est remplie de
+blocs de trois types et votre but est 
+de la vider. Un groupe de blocs 
+adjacents et de même type peut être 
+retiré en cliquant dessus (minimum 
+2 blocs). Les blocs restants se 
+réarrangent afin de boucher les trous, 
+et on recommence jusqu'à avoir vidé 
+la grille ou n'avoir plus que des blocs 
+isolés.
